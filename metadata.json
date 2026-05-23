@@ -1,0 +1,6 @@
+{
+  "name": "Paradam Creative Agency",
+  "description": "An immersive, high-interaction digital agency website featuring smooth momentum scrolling, dynamic mesh gradients, organic noise textures, magnetic buttons, custom cursor effects, and bespoke typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
